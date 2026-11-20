@@ -1,0 +1,1896 @@
+fileFormatVersion: 2
+guid: d9eb5b64989d22045951c7a8c2f37d3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Panties and Bra_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 407
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5e49389605c34c8ac0a63a557c0a3
+      internalID: -344529912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 407
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a17f2ec41a0d240a6b96a8219ca99b
+      internalID: -214074877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 408
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf2011870d5ec49973e93340371f73
+      internalID: 657415225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 408
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ac26e2de09abc40ac21482b6f61dc2
+      internalID: 424602429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 408
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6184804508e154e40a8ad0208eb620eb
+      internalID: -1413270138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a096a59ad8b7d64280843662807d6c1
+      internalID: 1103698168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 399
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3711fe7b635f24a48bcbacdec5884f3e
+      internalID: 901326349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 399
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f550d9344cbac746adfcf0b2ad2dec1
+      internalID: -526128392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 399
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d357c8b22c55ae48b432b82b4854e87
+      internalID: 724135253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 399
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6ad86a56e0fe4398d1138554ad2ac
+      internalID: 1313037359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dce9a9b4ea048409d8057df0dfc662
+      internalID: 500017244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4623786e10a86408c2c4bd6a7a9d54
+      internalID: -832798414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 343
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4378231a5e5a11e46b0d48825553ce23
+      internalID: -1408616982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 344
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9a79f0ce3e804480f5d48c0e49593
+      internalID: -550489912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 343
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19721769bc315d44ba4d8f09d664560
+      internalID: -642991034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 343
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302668e001c2bc4c99a91ea777d8a9d
+      internalID: 845099580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 343
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dfbc1fae5a4474cbf5d1772800166d
+      internalID: 1074403157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 344
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9067cbff91a221c46aa1ab263b1a6876
+      internalID: 1798351393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 336
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25491f1fa802dc409ae92c170854b10
+      internalID: -1086937637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 336
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c79de62559fd14f9484942be95ad98
+      internalID: 1983770338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 335
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5174ea90331b49bedb92f3fedcb0b
+      internalID: -2095762453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 335
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caf45125c621b544a233cbc20812557
+      internalID: 1741151907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_22
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 336
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1019c921566a51043a4b249c18dd5ec6
+      internalID: 78686574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 336
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94c00f7f912814ba4ecda4e7776d47
+      internalID: -1234671773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 280
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6440aa7768c663743872d73b77f914a3
+      internalID: -59805672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 272
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98429690292eed144b560091d6a8cb36
+      internalID: 958123182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 274
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da48df2edac7cc45a713d68268e6ce4
+      internalID: 433920617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ed9f4395ace543a4b949dff8bb972
+      internalID: 1550235010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 280
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f30b601c7be94193a0cfcadb46996
+      internalID: 706062697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 272
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa82ce85e7f8f604ea55e01cd94d4178
+      internalID: -6513401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 280
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f7c0c13223134ebe057cd695dd4c1
+      internalID: -226837831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 272
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37905363ada5cc84c97a9d27870f42ef
+      internalID: 1642997321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 279
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c14518774755240b03bfbdf2c9511b
+      internalID: -1118701696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 271
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9579eb12adac40a0ebeafdb60b3eb
+      internalID: -131542616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_34
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 272
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e0f9cfe1d4244cb716769e8582412
+      internalID: 730798076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 273
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a274626bb5ea41af115d79eb7decf
+      internalID: 1664025206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 218
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23934afa10254144a9e18ae4f284e5ff
+      internalID: -671744578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 218
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128eb5a34429824085953b1a5b41b3b
+      internalID: -342036214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 218
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d70d5fd44d88f64fa2f78f20e563dac
+      internalID: 1575935608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 218
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b68c697f258854ca7cbd4ba70448b1
+      internalID: 1104966430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 210
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2427eef97ccd0488984d0a44ddf5f6
+      internalID: 1918677131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 210
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a40c4366a65bc849b8b2e4cd05431b5
+      internalID: -1312991570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 210
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf25c578c94b32409686f33742b868f
+      internalID: 667095669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 210
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8d75fd1a65fd41acd2564db228cca
+      internalID: 871308828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c00f34cc09f464eb8da65b615d6a8c
+      internalID: -1458875256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 153
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b92faf742d26b548bb97339f6fbf550
+      internalID: 186647607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 153
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eee84b65b00924faf63666f12164a2
+      internalID: 371887299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 153
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703537df5212d61408d97e110898a628
+      internalID: 136514478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a4de4c7eab87498e18ab9b2c10e03
+      internalID: -1514316914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e8f073a462f944e8d35714236f9d0d
+      internalID: -231635842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531736fe3f439884593d1ec22e36855d
+      internalID: -1911262879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad29cfd2a1f487438df604f9d55cd3b
+      internalID: -409677019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 87
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ffbe21b9063dd4092059d6fcb69a62
+      internalID: -2112607370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 87
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be70c9ab1c3304e43bd66e9acca971e1
+      internalID: 2143490669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 88
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93013d278d4904aaaa4d7abc63af6b
+      internalID: -1317197838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_55
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 88
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8ac156fefbe3a44b37f1b1863c10d6
+      internalID: -1822873730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491132b49683214d9d55ed0198eb71a
+      internalID: -1124204654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 87
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9cfa727775f254995976556e6d45ca
+      internalID: -1758364803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f039bdfca0b247b1817e53fcd6cac
+      internalID: 822632841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 79
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8f807cc2b85343b4139b481b259aa
+      internalID: -582954546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7608ffc62fb6ef644a86ff13c14d8ea0
+      internalID: 950185409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05985f65960acf048a91493f9c0e7bd6
+      internalID: 1347944928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 79
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbaff00c3054fc4480d347301b27622
+      internalID: 78602560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7337809af2f7f4c4abe61abf60bd0aec
+      internalID: 1319715536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b665db46b14d042a183dc3ff0df07c
+      internalID: -1088620638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38abef4e61487642b6f3d66fad3410e
+      internalID: 296407037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 13
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6527aec5cf8b4bae18a115dceb62b
+      internalID: -1579706848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_67
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 15
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec88ff570318c4ba5e12d5b130bdb7
+      internalID: -1273384541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_68
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 13
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcbbcf3536cf8240afa760acf1a249e
+      internalID: -1501322005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_69
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 15
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e720a247724f824daaf5c8b9c2d2f17
+      internalID: 467309437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_70
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 14
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7831ea6c8fb039418ea128bbad586dd
+      internalID: -749226032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 14
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60574fb929a1ce4d892d40d8e1bf6f9
+      internalID: 1587388228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a94950f88ce9742b288c81ac080459
+      internalID: -836092893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 6
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbae2a997d76c4e8b62cf023f414f1
+      internalID: -484810468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_74
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d72b7150ac0d24bbd02921aa0e5ca7
+      internalID: 125572282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_75
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50871e27d8a4b1a469c05fe2660a34e4
+      internalID: 1154978980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_76
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 6
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b33e50ebb1c494ebcbb5003e5d4e3b
+      internalID: -878920669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_77
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cec04aad7ab344e8346633d54f9ea9
+      internalID: 97488362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_78
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb96ec704ad7fc4bab552c77c86029b
+      internalID: -526027759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_79
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328868afe3e1ff742a0cde740fe1a177
+      internalID: 1668798251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Panties and Bra_80
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b6cf98aa017e44b9a9cc13f50a9fe
+      internalID: -72911661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue Panties and Bra_0: -344529912
+      Blue Panties and Bra_1: -214074877
+      Blue Panties and Bra_10: 500017244
+      Blue Panties and Bra_11: -832798414
+      Blue Panties and Bra_12: -1408616982
+      Blue Panties and Bra_13: -550489912
+      Blue Panties and Bra_14: -642991034
+      Blue Panties and Bra_15: 845099580
+      Blue Panties and Bra_16: 1074403157
+      Blue Panties and Bra_17: 1798351393
+      Blue Panties and Bra_18: -1086937637
+      Blue Panties and Bra_19: 1983770338
+      Blue Panties and Bra_2: 657415225
+      Blue Panties and Bra_20: -2095762453
+      Blue Panties and Bra_21: 1741151907
+      Blue Panties and Bra_22: 78686574
+      Blue Panties and Bra_23: -1234671773
+      Blue Panties and Bra_24: -59805672
+      Blue Panties and Bra_25: 958123182
+      Blue Panties and Bra_26: 433920617
+      Blue Panties and Bra_27: 1550235010
+      Blue Panties and Bra_28: 706062697
+      Blue Panties and Bra_29: -6513401
+      Blue Panties and Bra_3: 424602429
+      Blue Panties and Bra_30: -226837831
+      Blue Panties and Bra_31: 1642997321
+      Blue Panties and Bra_32: -1118701696
+      Blue Panties and Bra_33: -131542616
+      Blue Panties and Bra_34: 730798076
+      Blue Panties and Bra_35: 1664025206
+      Blue Panties and Bra_36: -671744578
+      Blue Panties and Bra_37: -342036214
+      Blue Panties and Bra_38: 1575935608
+      Blue Panties and Bra_39: 1104966430
+      Blue Panties and Bra_4: -1413270138
+      Blue Panties and Bra_40: 1918677131
+      Blue Panties and Bra_41: -1312991570
+      Blue Panties and Bra_42: 667095669
+      Blue Panties and Bra_43: 871308828
+      Blue Panties and Bra_44: -1458875256
+      Blue Panties and Bra_45: 186647607
+      Blue Panties and Bra_46: 371887299
+      Blue Panties and Bra_47: 136514478
+      Blue Panties and Bra_48: -1514316914
+      Blue Panties and Bra_49: -231635842
+      Blue Panties and Bra_5: 1103698168
+      Blue Panties and Bra_50: -1911262879
+      Blue Panties and Bra_51: -409677019
+      Blue Panties and Bra_52: -2112607370
+      Blue Panties and Bra_53: 2143490669
+      Blue Panties and Bra_54: -1317197838
+      Blue Panties and Bra_55: -1822873730
+      Blue Panties and Bra_56: -1124204654
+      Blue Panties and Bra_57: -1758364803
+      Blue Panties and Bra_58: 822632841
+      Blue Panties and Bra_59: -582954546
+      Blue Panties and Bra_6: 901326349
+      Blue Panties and Bra_60: 950185409
+      Blue Panties and Bra_61: 1347944928
+      Blue Panties and Bra_62: 78602560
+      Blue Panties and Bra_63: 1319715536
+      Blue Panties and Bra_64: -1088620638
+      Blue Panties and Bra_65: 296407037
+      Blue Panties and Bra_66: -1579706848
+      Blue Panties and Bra_67: -1273384541
+      Blue Panties and Bra_68: -1501322005
+      Blue Panties and Bra_69: 467309437
+      Blue Panties and Bra_7: -526128392
+      Blue Panties and Bra_70: -749226032
+      Blue Panties and Bra_71: 1587388228
+      Blue Panties and Bra_72: -836092893
+      Blue Panties and Bra_73: -484810468
+      Blue Panties and Bra_74: 125572282
+      Blue Panties and Bra_75: 1154978980
+      Blue Panties and Bra_76: -878920669
+      Blue Panties and Bra_77: 97488362
+      Blue Panties and Bra_78: -526027759
+      Blue Panties and Bra_79: 1668798251
+      Blue Panties and Bra_8: 724135253
+      Blue Panties and Bra_80: -72911661
+      Blue Panties and Bra_9: 1313037359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
